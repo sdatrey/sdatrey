@@ -32,11 +32,11 @@
 <img align="left" alt="Mongodb" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <br/>
-
+<hr>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
+   
   <img align="left" alt="shourya's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sdatrey&show_icons=true&hide_border=true" />
 
 </details>
