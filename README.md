@@ -45,9 +45,7 @@
 <br/>
 
 <p>You have finally discovered my Github profile!!</p>
-<br>
 <p>Please feel free to clone projects and raise issues if you think something could be better.</p>
-<br>
 <p>Happy Coding!!</p>
 
 [twitter]: https://twitter.com/shourya_dev
