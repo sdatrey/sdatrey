@@ -25,18 +25,26 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angualr/angular.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
+[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angualr/angular.png" />]
+[<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />]
+[<img align="left" alt="Mongodb" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 
 <br />
 
-[Shourya's github stats](https://github-readme-stats.vercel.app/api?username=sdatrey&show_icons=true&hide_border=true)
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="shourya's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sdatrey&show_icons=true&hide_border=true" />
+
+</details>
 
 
-You have finally discovered my Github profile!!
-Please feel free to clone projects and raise issues if you think something could be better.
-Happy Coding!!
+<p>You have finally discovered my Github profile!!</p>
+<br>
+<p>Please feel free to clone projects and raise issues if you think something could be better.</p>
+<br>
+<p>Happy Coding!!</p>
 
 [twitter]: https://twitter.com/shourya_dev
 [instagram]: https://instagram.com/shourya_atrey
