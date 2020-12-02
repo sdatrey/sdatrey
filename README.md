@@ -20,7 +20,9 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
-### Languages and Tools:
+
+## Languages and Tools:
+
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -38,6 +40,8 @@
   <img align="left" alt="shourya's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sdatrey&show_icons=true&hide_border=true" />
 
 </details>
+
+
 <br/>
 
 <p>You have finally discovered my Github profile!!</p>
