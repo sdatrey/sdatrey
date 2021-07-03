@@ -7,9 +7,9 @@
 <br />
 
 ## Personal Stuffs
-- 🔭 I’m currently working on Angular, Nodejs.
-- 🌱 I’m currently learning NodeJs.
-- 👯 I’m looking to collaborate on Angular projects.
+- 🔭 I’m currently working on Reactjs.
+- 🌱 I’m currently learning Reactjs with backend.
+- 👯 I’m looking to collaborate on React projects.
 - 💬 Ask me about anything. I am Happy to help.
 
 <br/>
